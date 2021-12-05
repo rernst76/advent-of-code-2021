@@ -2,5 +2,6 @@
     "python.analysis.extraPaths": [
         "${env:VIRTUAL_ENV}/lib/site-packages",
         "${env:VIRTUAL_ENV}/bin"
-    ]
+    ],
+    "notebook.lineNumbers": "on"
 }
